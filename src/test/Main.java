@@ -12,6 +12,8 @@ public class Main {
 		System.out.println("Ding dong");
 
 		System.out.println("Val voor mijn part allemaal dood.");
+		
+		System.out.println("groeteennn!");
 
 	}
 
