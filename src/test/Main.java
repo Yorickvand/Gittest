@@ -4,6 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		int looper = 0;
 
 		System.out.println("Hello World!");
 		
@@ -16,6 +17,12 @@ public class Main {
 		System.out.println("groeteennn!");
 
 		System.out.println("Groetjes mij");
+		
+		while(looper < 5) {
+			System.out.println("on loopnumber: " + looper);
+			looper++;
+		}
+		
 	}
 
 }
